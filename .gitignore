@@ -1,0 +1,18 @@
+# Python
+backend/.env
+*.env
+!.env.example
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/chroma_db/
+backend/storage/*.sqlite3*
+backend/data/*.jsonl
+backend/data/*.json
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
