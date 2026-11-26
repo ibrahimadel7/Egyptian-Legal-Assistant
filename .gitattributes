@@ -1,0 +1,2 @@
+backend/bm25_index.pkl filter=lfs diff=lfs merge=lfs -text
+backend/chroma_db/** filter=lfs diff=lfs merge=lfs -text
